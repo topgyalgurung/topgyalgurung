@@ -1,15 +1,20 @@
 ### Hi there 👋
+- my replit: https://replit.com/@topgyal
+- Linkedin: https://www.linkedin.com/in/topgyaltsering/
+- Medium Blogs: https://topgyaltsering.medium.com/
+- Tech Medium Publication: https://medium.com/data-revolution  
 
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
+<!-- - 👯 I’m looking to collaborate on ____ -->
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN)
-- 👯 I’m looking to collaborate on brainstorm ideas to build a startup product
-
-- Applications in my macos:
--  VS Code, PyCharm,Docker Desktop, Postico, MySQL Workbench, Postman, iTerm, VirtualBox
--  Take a Break,
+- Apps on my macos:
+-  VS Code, PyCharm, Docker Desktop, Postico, MySQL Workbench, DB Browser for SQLite, Postman, iTerm, VirtualBox
+-  Take a Break, stoic
 -  Softwares: apache-airflow-2.1.4, superset, homebrew, pip
--  Bookmark: pomofocus.io -->
+-  Bookmark: pomofocus.io 
+
+
 
 
 <!-- - 🤔 I’m looking for help with 
