@@ -13,7 +13,7 @@
 - Apps on my macos:
   -  VS Code, PyCharm, Docker Desktop, Postico, MySQL Workbench, DB Browser for SQLite, Postman, iTerm, VirtualBox
   -   Take a Break, stoic
-- Bookmark:[Pomodoro Timeline Online](pomofocus.io)
+- Bookmark:[Pomodoro Timeline Online](https://pomofocus.io)
 
 
 
