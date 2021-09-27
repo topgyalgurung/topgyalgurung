@@ -3,7 +3,8 @@
 - Linkedin: https://www.linkedin.com/in/topgyaltsering/
 - Medium Blogs: https://topgyaltsering.medium.com/
 - Tech Medium Publication: https://medium.com/data-revolution  
-
+- Mastering Python3, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker)
+- 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
 <!-- - 👯 I’m looking to collaborate on ____ -->
