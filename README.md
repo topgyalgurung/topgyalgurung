@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Porfolio: https://topgyaltsering.github.io/Topgyal_Portfolio/ (in progress)
+- Porfolio: https://topgyaltsering.github.io/cv/ (in progress)
 - Tech Medium Publication: https://medium.com/data-revolution  
 - Mastering Python3, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
 - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba)
