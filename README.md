@@ -10,10 +10,11 @@
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
 <!-- - 👯 I’m looking to collaborate on ____ -->
 
-- Apps on my macos:
-  -  VS Code, PyCharm, Docker Desktop, Postico, MySQL Workbench, DB Browser for SQLite, Postman, iTerm, VirtualBox
-  -   Take a Break, stoic
+<!-- - Apps on my macos:
+  -  VS Code, PyCharm, Docker Desktop, iTerm, VirtualBox
+  -   Take a Break, stoic -->
 - Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
+- Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/),[Tim Ferriss](https://tim.blog/)
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
