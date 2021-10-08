@@ -14,7 +14,7 @@
   -  VS Code, PyCharm, Docker Desktop, iTerm, VirtualBox
   -   Take a Break, stoic -->
 - Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
-- Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/),[Tim Ferriss](https://tim.blog/)
+- Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/), [Tim Ferriss](https://tim.blog/)
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
