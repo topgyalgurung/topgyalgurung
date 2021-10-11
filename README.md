@@ -5,6 +5,7 @@
 - Mastering Python3, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
 - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba)
 - [Career Learning Path Data Engineering Coursera](https://www.coursera.org/learning-paths/data-engineering)
+- Currently watching https://youtu.be/Sxxw3qtb3_g
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
