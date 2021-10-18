@@ -1,8 +1,9 @@
-### Hi there 👋
-
-- Porfolio: https://topgyaltsering.github.io/cv/ (in progress)
+### Hi there 👋  I am Topgyal!
+- 💻 Software Engineer
+- :mortar_board: Bachelor in Computer Science from CUNY Hunter College
+- Porfolio: https://topgyaltsering.github.io/cv/  (in progress)
 - Tech Medium Publication: https://medium.com/data-revolution  
-- Mastering Python3, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
+- Mastering Python3, Java, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
 - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba)
 - [Career Learning Path Data Engineering Coursera](https://www.coursera.org/learning-paths/data-engineering)
 - Currently watching https://youtu.be/Sxxw3qtb3_g
@@ -16,6 +17,7 @@
   -   Take a Break, stoic -->
 - Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
 - Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/), [Tim Ferriss](https://tim.blog/)
+
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
