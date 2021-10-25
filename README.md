@@ -1,5 +1,5 @@
 ### Hi there 👋  I am Topgyal!
-- 💻 Software Engineer
+- 💻  Software Engineer
 - :mortar_board: Bachelor in Computer Science from CUNY Hunter College
 - Porfolio: https://topgyaltsering.github.io/cv/  (in progress)
 - [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing)
@@ -13,9 +13,9 @@
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
 <!-- - 👯 I’m looking to collaborate on ____ -->
 
-<!-- - Apps on my macos:
-  -  VS Code, PyCharm, Docker Desktop, iTerm, VirtualBox
-  -   Take a Break, stoic -->
+- Apps on my macos:
+  -  VS Code, PyCharm, Docker Desktop, iTerm, VirtualBox, Postman, DBeaver
+  -   Take a Break, stoic 
 - Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
 - Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/), [Tim Ferriss](https://tim.blog/)
 
