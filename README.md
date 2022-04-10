@@ -5,7 +5,7 @@
 - [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing)
 - Tech Medium Publication: https://medium.com/data-revolution  
 - Mastering Python3, Java, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
-- Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java (Upcoming)](https://roadmap.sh/java)
+- Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java](https://roadmap.sh/java)
 - [Career Learning Path Data Engineering Coursera](https://www.coursera.org/learning-paths/data-engineering)
 - Currently watching https://youtu.be/Sxxw3qtb3_g
 
