@@ -19,6 +19,7 @@
 - Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
 - Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/), [Tim Ferriss](https://tim.blog/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyaltsering&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
