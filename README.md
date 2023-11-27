@@ -1,23 +1,14 @@
 ### Hi there 👋  I am Topgyal!
-- 💻  Software Engineer
 - :mortar_board: Bachelor in Computer Science from CUNY Hunter College
-- Porfolio: https://topgyaltsering.com  (in progress)
-- [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing)
-- Tech Medium Publication: https://medium.com/data-revolution  
+- Porfolio: https://topgyaltsering.github.io/cv/
+- [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing) 
 - Mastering Python3, Java, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
 - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java](https://roadmap.sh/java)
 - [Career Learning Path Data Engineering Coursera](https://www.coursera.org/learning-paths/data-engineering)
-- Currently watching https://youtu.be/Sxxw3qtb3_g
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
 <!-- - 👯 I’m looking to collaborate on ____ -->
-
-- Apps on my macos:
-  -  VS Code, PyCharm, Docker Desktop, iTerm, VirtualBox, Postman, DBeaver
-  -   Take a Break, stoic 
-- Bookmark: [Pomodoro Timeline Online](https://pomofocus.io)
-- Newsletters: [hackernewsletter](https://hackernewsletter.com/), [Stoic Reflections](https://stoicreflections.com/), [Tim Ferriss](https://tim.blog/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyaltsering&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
@@ -38,8 +29,9 @@
 </br>
 </br>
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyaltsering&repo=TravelDiary)](https://github.com/topgyaltsering/TravelDiary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyaltsering&repo=todo_web_app)](https://github.com/topgyaltsering/todo_web_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyaltsering&repo=todo_web_app)](https://github.com/topgyaltsering/todo_web_app) -->
 
 <!-- ![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyaltsering&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
