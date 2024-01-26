@@ -1,6 +1,6 @@
 ### Hi there 👋  I am Topgyal!
 - :mortar_board: Bachelor in Computer Science from CUNY Hunter College
-- Porfolio: https://topgyaltsering.github.io/cv/
+- Porfolio: https://topgyalgurung.github.io/cv/
 - Replit: https://replit.com/@topgyal 
 - [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing) 
 - Mastering Python3, Java, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
