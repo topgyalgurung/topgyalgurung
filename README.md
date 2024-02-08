@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyaltsering&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/topgyaltsering/">
+<a href="https://www.linkedin.com/in/topgyalgurung/">
   <img align="left" alt="Topgyal Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
@@ -29,10 +29,10 @@
 </br>
 
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyaltsering&repo=TravelDiary)](https://github.com/topgyaltsering/TravelDiary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyaltsering&repo=todo_web_app)](https://github.com/topgyaltsering/todo_web_app) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=TravelDiary)](https://github.com/topgyalgurung/TravelDiary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=todo_web_app)](https://github.com/topgyalgurung/todo_web_app) -->
 
-<!-- ![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyaltsering&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<!-- ![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyalgurung&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
 
