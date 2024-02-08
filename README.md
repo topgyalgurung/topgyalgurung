@@ -11,7 +11,7 @@
 <!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
 <!-- - 👯 I’m looking to collaborate on ____ -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyaltsering&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyalgurung&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/topgyalgurung/">
