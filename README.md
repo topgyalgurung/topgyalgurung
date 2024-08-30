@@ -1,15 +1,16 @@
 ### Hi there 👋  I am Topgyal!
 - :mortar_board: Bachelor in Computer Science from CUNY Hunter College
-- Porfolio: https://topgyalgurung.github.io/cv/
-- Replit: https://replit.com/@topgyal 
-- [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing) 
-- Mastering Python3, Java, SQL, linux, Cloud, networking, APIs, Virutalization(VMs) and Containerization(Docker, kubernetes) 
+- Porfolio: in progress 
+- Mastering Web Engineering 
+- 🔭 I’m currently working on building full stack web app 
+- 🌱 I’m currently learning Springboard Software Engineering Course 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with exploring advanced JavaScript techniques and improving my skills in building scalable web applications.
+- 💬 Ask me about: My experiences in software engineering, my current projects, or tips on working with JavaScript and Python.
+- 📫 How to reach me: You can contact me via email at [topgyaltsering3@gmail.com] or connect with me on LinkedIn at [@topgyalgurung](https://www.linkedin.com/in/topgyalgurung/).
+- ⚡ Fun fact: I drove an Uber in NYC last 1 year and had the chance to meet people from all walks of life and my way around the streets of NYC  !
 - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java](https://roadmap.sh/java)
-- [Career Learning Path Data Engineering Coursera](https://www.coursera.org/learning-paths/data-engineering)
-
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning Hadoop( Common, MapReduce, HDFS, YARN), Kafka -->
-<!-- - 👯 I’m looking to collaborate on ____ -->
+- [Factor Trait Report Nov 2019 by Pymetric](https://drive.google.com/file/d/1gvIN8Fktjs65B1JTZnVe9k1lmlsS2Pz1/view?usp=sharing) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyalgurung&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
@@ -34,11 +35,3 @@
 
 <!-- ![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyalgurung&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-
-
-
-<!-- - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
