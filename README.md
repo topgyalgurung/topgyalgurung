@@ -1,11 +1,11 @@
 ### Hi there 👋  I am Topgyal!
 - :mortar_board: Bachelor in Computer Science from CUNY Hunter College
-- Porfolio: in progress 
+- Porfolio: in progress !
 - Mastering Web Engineering
 - Deployed app more to come: [FinRecord](https://finrecord-e5309b71ab5b.herokuapp.com/), [Jeopardy Game](http://topgyalgurung.me/jeopardy-game/)
 - 🔭 I’m currently working on building 3 full stack web app - Automated trading bot, Personal Finance Management Platform with Predictive Analytics and Giftlink Household Item Sharing   
-- 🌱 I’m currently learning Springboard Software Engineering Course 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently taking Springboard Software Engineering Course 
+- 👯 I’m looking to collaborate on brainstorming ideas to build softwares 
 - 🤔 I’m looking for help with exploring advanced JavaScript techniques and improving my skills in building scalable web applications.
 - 💬 Ask me about: My experiences in software engineering, my current projects, or tips on working with JavaScript and Python.
 - 📫 How to reach me: You can contact me via email at [topgyaltsering3@gmail.com] or connect with me on LinkedIn at [@topgyalgurung](https://www.linkedin.com/in/topgyalgurung/).
