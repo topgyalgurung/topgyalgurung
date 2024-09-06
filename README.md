@@ -1,6 +1,6 @@
 ### Hi there 👋  I am Topgyal!
 - :mortar_board: got my Bachelors in Computer Science from CUNY Hunter College
-- deployed app more to come: [Jeopardy Game](http://topgyalgurung.me/jeopardy-game/), [FinRecord simple app](https://finrecord-e5309b71ab5b.herokuapp.com/)
+- deployed app more to come: [Jeopardy Game](http://topgyalgurung.me/jeopardy-game/) 
 - 🔭 I’m currently working to build a full stack web app: Ideation phase  
 - 🌱 I’m currently taking Springboard Software Engineering Course 
 - 👯 I’m looking to collaborate on brainstorming ideas to build useful softwares. 
