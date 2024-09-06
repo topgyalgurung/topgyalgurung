@@ -9,8 +9,12 @@
 - ⚡ Fun fact: Been driving my Tesla for Uber in NYC for the past 1.5 years, meeting fascinating people and mastering every street in the city
 - Currently reading Readmake: Bootstrapper's handbook by Peiter Levels( @levelsio), code 2 complete and design data intensive applications 
 
-- Resources: 
-  - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java](https://roadmap.sh/java) 
+- [Road map Resources] (https://roadmap.sh/get-started)
+  -   [Full Stack](https://roadmap.sh/full-stack)
+  -   [Python](https://roadmap.sh/python),
+  -   [backend](https://roadmap.sh/backend),
+  -   [postgres dba](https://roadmap.sh/postgresql-dba),
+  -   [java](https://roadmap.sh/java) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyalgurung&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
