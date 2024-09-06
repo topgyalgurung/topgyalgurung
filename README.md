@@ -1,12 +1,13 @@
 ### Hi there 👋  I am Topgyal!
 - :mortar_board: got my Bachelors in Computer Science from CUNY Hunter College
 - deployed app more to come: [Jeopardy Game](http://topgyalgurung.me/jeopardy-game/), [FinRecord simple app](https://finrecord-e5309b71ab5b.herokuapp.com/)
-- 🔭 I’m currently working on building 3 full stack web app - Automated trading bot, Personal Finance Management Platform with Predictive Analytics and Giftlink Household Item Sharing   
+- 🔭 I’m currently working to build a full stack web app: Ideation phase  
 - 🌱 I’m currently taking Springboard Software Engineering Course 
-- 👯 I’m looking to collaborate on brainstorming ideas to build softwares 
+- 👯 I’m looking to collaborate on brainstorming ideas to build useful softwares. 
 - 💬 Ask me about: My experiences in software engineering, my current projects, or tips on working with JavaScript and Python.
 - 📫 How to reach me: You can contact me via email at [topgyaltsering3@gmail.com] or connect with me on LinkedIn at [@topgyalgurung](https://www.linkedin.com/in/topgyalgurung/).
 - ⚡ Fun fact: Been driving my Tesla for Uber in NYC for the past 1.5 years, meeting fascinating people and mastering every street in the city
+- Currently reading Readmake: Bootstrapper's handbook by Peiter Levels( @levelsio), code 2 complete and design data intensive applications 
 
 - Resources: 
   - Roadmap: [Python](https://roadmap.sh/python), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba),[ java](https://roadmap.sh/java) 
