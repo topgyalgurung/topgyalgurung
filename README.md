@@ -1,5 +1,5 @@
 ### Hi there 👋  I am Topgyal!
-- :mortar_board: got my Bachelors in Computer Science from CUNY Hunter College
+- :mortar_board: Bachelors in Computer Science from CUNY Hunter College
 - deployed app more to come: [Jeopardy Game](http://topgyalgurung.me/jeopardy-game/) 
 - 🔭 I’m currently working to build a full stack web app: Ideation phase  
 - 🌱 I’m currently taking Springboard Software Engineering Course 
