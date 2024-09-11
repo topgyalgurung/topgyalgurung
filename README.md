@@ -1,20 +1,15 @@
 ### Hi there 👋  I am Topgyal!
-- :mortar_board: Bachelors in Computer Science from CUNY Hunter College
-- Building ⛏️ http://topgyalgurung.me/ 
-- 🔭 I’m currently working to build a full stack web app: Ideation phase  
-- 🌱 I’m currently taking Springboard Software Engineering Course 
-- 👯 I’m looking to collaborate on brainstorming ideas to build useful softwares. 
-- 💬 Ask me about: My experiences in software engineering, my current projects, or tips on working with JavaScript and Python.
-- 📫 How to reach me: You can contact me via email at [topgyaltsering3@gmail.com] or connect with me on LinkedIn at [@topgyalgurung](https://www.linkedin.com/in/topgyalgurung/).
-- ⚡ Fun fact: Been driving my Tesla for Uber in NYC for the past 1.5 years, meeting fascinating people and mastering every street in the city
-- Currently reading Readmake: Bootstrapper's handbook by Peiter Levels( @levelsio), code 2 complete and design data intensive applications 
+* :mortar_board: Bachelors in Computer Science from CUNY Hunter College
+* Portfolio: ⛏️ http://topgyalgurung.me/ 
+* 🔭 I’m currently working to build a full stack web app 
+* 🌱 I’m currently taking Springboard Software Engineering Course
+* 📫 How to reach me: Feel free to contact me via email at [topgyaltsering3@gmail.com] or connect with me on LinkedIn at [@topgyalgurung](https://www.linkedin.com/in/topgyalgurung/)
+* ⚡ Fun fact: Been driving my Tesla for Uber in NYC for the past 1.5 years, meeting fascinating people and mastering every street in the city
+* Currently reading Readmake: Bootstrapper's handbook by Peiter Levels( @levelsio), code 2 complete and designing data intensive applications 
 
-- [Road map Resources] (https://roadmap.sh/get-started)
-  -   [Full Stack](https://roadmap.sh/full-stack)
-  -   [Python](https://roadmap.sh/python),
-  -   [backend](https://roadmap.sh/backend),
-  -   [postgres dba](https://roadmap.sh/postgresql-dba),
-  -   [java](https://roadmap.sh/java) 
+* [Road map resources](https://roadmap.sh/get-started)
+    * [full stack](https://roadmap.sh/full-stack), [backend](https://roadmap.sh/backend), [postgres dba](https://roadmap.sh/postgresql-dba)
+    * [python](https://roadmap.sh/python), [java](https://roadmap.sh/java) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyalgurung&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 ### Connect with me
