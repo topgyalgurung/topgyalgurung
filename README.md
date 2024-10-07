@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=draw-card-react-app)](https://github.com/topgyalgurung/draw-card-react-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=pokedox)](https://github.com/topgyalgurung/pokedox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=jeopardy-game)](https://github.com/topgyalgurung/jeopardy-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=space-mission-control)](https://github.com/topgyalgurung/Space-Mission-Control)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=space-battle-simulator)](https://github.com/topgyalgurung/space-battle-simulator)
 
 ### Connect with me
 
