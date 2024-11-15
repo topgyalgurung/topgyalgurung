@@ -1,9 +1,5 @@
 ###  Hi there 👋  I am Topgyal!
-* :mortar_board: Bachelors in Computer Science from CUNY Hunter College
 * 💼 Portfolio: ⛏️ http://topgyalgurung.me/ 
-* 🔭 I’m currently working to build a full stack web app 
-* 🌱 I’m currently taking Springboard Software Engineering Course
-* ⚡ Fun fact: Been driving my Tesla for Uber in NYC for the past 1.5 years, meeting fascinating people and mastering every street in the city
 * 📚 Currently Reading: Readmake: Bootstrapper's handbook by Peiter Levels( @levelsio), code 2 complete and designing data intensive applications 
 
 ![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyalgurung&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
