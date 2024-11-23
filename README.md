@@ -15,7 +15,7 @@
 ----------
 
 
-![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyalgurung&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Topgyal Tsering Github Stats](https://github-readme-stats.vercel.app/api?username=topgyalgurung&count_private=true&show_icons=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topgyalgurung&langs_count=8&layout=compact)](https://github.com/binod164/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=topgyalgurung&repo=draw-card-react-app)](https://github.com/topgyalgurung/draw-card-react-app)
