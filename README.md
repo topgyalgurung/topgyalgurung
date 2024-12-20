@@ -4,7 +4,7 @@
 I am Topgyal, a Full Stack Software Engineer with a bachelor’s in Computer Science, specializing in the MERN Stack, JavaScript, Python, and PostgreSQL database. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability
 
 Check out my homepage:
-💼 Portfolio: ⛏️ http://topgyalgurung.me/
+-  ⛏️ http://topgyalgurung.me/
 
 or Connect with me
 
