@@ -8,7 +8,7 @@ Check out my homepage:
 
 or Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/timmy-omahony/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)
 - ✍️ [Medium] <a href="https://topgyalgurung.medium.com">
   <img align="center" alt="Topgyal Tsering Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" /> 
 </a>
