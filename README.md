@@ -3,10 +3,13 @@
 ### Hi there 👋 
 I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Science, specializing in the MERN Stack, Next.js, JavaScript, Typescript, Python, and PostgreSQL database. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability
 
-Check out my homepage:
+#### Check out my homepage:
 -  ⛏️ http://topgyalgurung.me/
 
-or Connect with me
+####  Next.js Full Stack App with Typescript, Postgres(Prisma ORM) and deployed on Vercel
+- [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
+
+#### Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)
 - ✍️ <a href="https://topgyalgurung.medium.com">
