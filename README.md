@@ -6,7 +6,7 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 #### Check out my homepage:
 -  ⛏️ http://topgyalgurung.me/
 
-####  Next.js Full Stack App with Typescript, Postgres(Prisma ORM) and deployed on Vercel
+#### Full Stack Web Application with Typescript, Next.js/React, Postgres(Prisma ORM) and deployed on Vercel
 - [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
 
 #### Connect with me
@@ -20,6 +20,6 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 
 ### Tech Stack
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,react,typescript,next,css,html,tailwindcss,express,nodejs,python,flask" /> </div> <div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,redis,bash,linux,git,docker,postman" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=js,typescript,python,css,html,tailwindcss" /> </div> <div > <img src="https://skillicons.dev/icons?i=react,next,express,nodejs" /> <div > <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,docker,postman" /> </div>
 
 ----------
