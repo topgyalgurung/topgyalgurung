@@ -22,4 +22,9 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 
 <div> <img src="https://skillicons.dev/icons?i=js,typescript,python,css,html,tailwindcss" /> </div> <div > <img src="https://skillicons.dev/icons?i=react,next,express,nodejs" /> <div > <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,docker,postman" /> </div>
 
+#### Tools
+- pnpm, turborepo
+
 ----------
+
+
