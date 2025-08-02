@@ -8,7 +8,7 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 - [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
 
 ##### Misc:
-- Bought first paid course of [Fireship.io's Next.js Full Course](https://fireship.io/courses/nextjs/) - big fan of Fireship.io, creator - [Jeff Delaney](https://youtu.be/XRoSBWYMefY?si=dHHPZ4RQ8TNj5iSD)
+- Bought first paid course of [Fireship.io's Next.js Full Course](https://fireship.io/courses/nextjs/) - big fan of Fireship.io, creator - the man, the myth, the legend [Jeff Delaney](https://youtu.be/XRoSBWYMefY?si=dHHPZ4RQ8TNj5iSD)
 
 #### Find me online
 
