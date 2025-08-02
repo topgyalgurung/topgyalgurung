@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋 
-I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Science, specializing in the MERN Stack (MongoDB, Express, Node.js, React), Next.js, JavaScript, Typescript, Python, Java Spring Boot and PostgreSQL database. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability
+I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Science, specializing in the MERN Stack (MongoDB, Express, Node.js, React), Next.js, JavaScript, Typescript, Python, Java Spring Boot and PostgreSQL. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability
 
 
 #### Full Stack Web Application with Typescript, Next.js/React, Postgres(Prisma ORM) and deployed on Vercel
