@@ -6,7 +6,7 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 - [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
 
 #### Other Deployed App:
-- [Space Travel Planner](space-travel-jj1w.onrender.com) 
+- [Space Travel Planner](https://space-travel-jj1w.onrender.com/)
 - [Pokedex Game](pokedex-lj55.onrender.com/)
 - [Jeopardy](https://topgyalgurung.me/jeopardy-game/)
 - [Card Game](draw-card-react-app.onrender.com/)
