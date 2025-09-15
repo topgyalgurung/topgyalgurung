@@ -23,4 +23,4 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 </a>
 
 ### Tech Stack
-<div> <img src="https://skillicons.dev/icons?i=js,typescript,python,css,html,tailwindcss,react,next,express,nodejs,mongodb,postgres,git,docker,postman" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=js,typescript,python,java,css,html,tailwindcss,react,next,express,nodejs,mongodb,postgres,git,docker,postman" /> </div>
