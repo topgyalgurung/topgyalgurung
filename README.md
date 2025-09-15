@@ -6,10 +6,15 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 - [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
 
 #### Other Deployed App:
+- [Customer Invoice Dashboard](https://nextjs-dashboard-rho.vercel.app/dashboard)
 - [Space Travel Planner](https://space-travel-jj1w.onrender.com/)
 - [Pokedex Game](https://pokedex-lj55.onrender.com/)
 - [Jeopardy](https://topgyalgurung.me/jeopardy-game/)
 - [Card Game](https://draw-card-react-app.onrender.com/)
+
+#### To be deployed:
+- [Myspace clone](https://github.com/topgyalgurung/myspace)
+- [AI Text Completion](https://github.com/topgyalgurung/nextjs-ai-app)
 
 #### Find me online
 - 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)
