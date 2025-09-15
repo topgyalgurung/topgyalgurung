@@ -7,9 +7,9 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 
 #### Other Deployed App:
 - [Space Travel Planner](https://space-travel-jj1w.onrender.com/)
-- [Pokedex Game](pokedex-lj55.onrender.com/)
+- [Pokedex Game](https://pokedex-lj55.onrender.com/)
 - [Jeopardy](https://topgyalgurung.me/jeopardy-game/)
-- [Card Game](draw-card-react-app.onrender.com/)
+- [Card Game](https://draw-card-react-app.onrender.com/)
 
 #### Find me online
 - 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)
