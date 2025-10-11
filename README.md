@@ -1,7 +1,8 @@
 
 
 ### Hi there 👋 
-I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Science, specializing in the MERN Stack (MongoDB, Express, Node.js, React), Next.js, JavaScript, Typescript, Python, Java Spring Boot and PostgreSQL. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability
+I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Science, specializing in the MERN Stack (MongoDB, Express, Node.js, React), Next.js, JavaScript, Typescript, Python, Java Spring Boot and PostgreSQL. Passionate about solving challenges, building scalable, user-focused applications, and driven by a growth mindset and  accountability.
+
 #### Full Stack Web Application with Typescript, Next.js/React, Postgres(Prisma ORM) and deployed on Vercel
 - [Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)
 
@@ -11,10 +12,6 @@ I am Topgyal, a Full Stack Software Engineer with a Bachelor’s in Computer Sci
 - [Pokedex Game](https://pokedex-lj55.onrender.com/)
 - [Jeopardy](https://topgyalgurung.me/jeopardy-game/)
 - [Card Game](https://draw-card-react-app.onrender.com/)
-
-#### To be deployed:
-- [Myspace clone](https://github.com/topgyalgurung/myspace)
-- [AI Text Completion](https://github.com/topgyalgurung/nextjs-ai-app)
 
 #### Find me online
 - 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)
