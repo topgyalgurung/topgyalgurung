@@ -11,7 +11,7 @@ Currently focused on building **AI-powered web applications** and **community pl
 ---
 
 ### Writing  
-I write about software engineering, AI integration, and personal growth on [Medium](https://topgyalgurung.medium.com).  
+I write about software engineering, AI integration, and personal growth on [Medium](https://topgyalgurung.medium.com) and [X](https://x.com/topgyalgurung)  
 
 ---
 
