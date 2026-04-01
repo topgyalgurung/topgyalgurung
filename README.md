@@ -1,17 +1,15 @@
 
 ### Hi, I am Topgyal 👋  
 
-I am a **Full Stack Software Engineer** with a Bachelor’s in Computer Science, specializing in the **MERN Stack (MongoDB, Express, Node.js, React)**, **Next.js**, **TypeScript**, **JavaScript**, and **PostgreSQL**. Passionate about solving challenges, building **scalable, user-focused applications**, and driven by a **growth mindset** and **accountability**.  
+I am a **Software Engineer** with a Bachelor’s in Computer Science. Passionate about solving challenges, building **scalable, user-focused applications**, and driven by a **growth mindset** and **accountability**.  
 
-### Work  
-Currently focused on building **AI-powered web applications** and **community platforms** for the Himalayan community in NYC. Experienced with full-stack development using **Next.js, React, and PostgreSQL**.  
 
 
 ### Writing  
 I write about software engineering, AI integration, and personal growth on [Medium](https://topgyalgurung.medium.com) and [X](https://x.com/topgyalgurung)  
 
 ### Research  
-Exploring **AI applications in healthcare**, **transformer models**, and **scalable full-stack solutions** to prepare for impactful projects in the next 1–2 years.  
+Exploring **AI applications, **transformer models**, and **scalable full-stack solutions** to prepare for impactful projects in the next 1–2 years.  
 
 ### Projects    
 - **[Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)** – A community platform connecting Himalayan organizations and resources in NYC. A Full Stack Web Application built with **TypeScript, Next.js/React, Postgres (Prisma ORM)**, deployed on **Vercel**.
