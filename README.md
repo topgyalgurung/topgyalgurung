@@ -1,18 +1,55 @@
 
-### Hi, I am Topgyal 👋  
+### Hi, I’m Topgyal 👋  
 
-I am a **Software Engineer** with a Bachelor’s in Computer Science. Passionate about solving challenges, building **scalable, user-focused applications**, and driven by a **growth mindset** and **accountability**.  
+**Software Engineer | B.S. Computer Science**
 
+Currently focused on **full-stack development + AI integration**, with a long-term goal of building impactful AI-powered products. I build scalable, data-driven applications and enjoy solving real-world problems through clean system design and reliable backend architecture.
 
+---
 
-### Writing  
-I write about software engineering, AI integration, and personal growth on [Medium](https://topgyalgurung.medium.com) and [X](https://x.com/topgyalgurung)  
+### 🧠 What I’m Focused On  
+- Backend systems, APIs, and data modeling  
+- Scalable full-stack applications  
+- AI integration (LLMs, APIs, applied use cases)  
+- System design and performance optimization  
 
-### Research  
-Exploring **AI applications, **transformer models**, and **scalable full-stack solutions** to prepare for impactful projects in the next 1–2 years.  
+---
 
-### Projects    
-- **[Himalayan Connect NYC](https://himalayan-connect-nyc.vercel.app/)** – A community platform connecting Himalayan organizations and resources in NYC. A Full Stack Web Application built with **TypeScript, Next.js/React, Postgres (Prisma ORM)**, deployed on **Vercel**.
+### ✍️ Writing  
+I share insights on software engineering, AI, and growth:  
+- Medium → https://topgyalgurung.medium.com  
+- X (Twitter) → https://x.com/topgyalgurung  
+
+---
+
+### 🔬 Research & Exploration  
+Exploring:  
+- Transformer models and AI applications  
+- AI-powered products (especially real-world use cases)  
+- Scalable architectures for modern web apps  
+
+---
+
+### 🚀 Projects  
+
+**Himalayan Connect NYC**  
+🔗 https://himalayan-connect-nyc.vercel.app/  
+A community platform connecting Himalayan organizations and resources in NYC.  
+
+- Built with **TypeScript, Next.js, React, PostgreSQL (Prisma ORM)**  
+- Integrated authentication, search, and location-based features  
+
+---
+
+### 📈 Currently  
+- Data Analytics Fellow @ COOP  
+- Preparing for backend & AI engineering roles  
+- Building projects that combine **data + AI + real-world impact**  
+
+---
+
+### 🤝 Let’s Connect  
+I’m always open to learning, collaboration, and opportunities.  
 
 ### Contact and learn more
 - 💼 [LinkedIn](https://www.linkedin.com/in/topgyalgurung/)  
