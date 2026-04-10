@@ -1,16 +1,17 @@
 
 ### Hi, I’m Topgyal 👋  
 
-**Software Engineer | B.S. Computer Science**
+**Software Engineer**
 
-Currently focused on **full-stack development + AI integration**, with a long-term goal of building impactful AI-powered products. I build scalable, data-driven applications and enjoy solving real-world problems through clean system design and reliable backend architecture.
+I specialize in building robust backend systems, scalable APIs, and data-driven applications, while leveraging full-stack skills to deliver complete, production-ready products.
+My focus is on system design, performance, and reliability, with growing experience in integrating AI into real-world applications.
 
 ---
 
 ### 🧠 What I’m Focused On  
 - Backend systems, APIs, and data modeling  
 - Scalable full-stack applications  
-- AI integration (LLMs, APIs, applied use cases)  
+- Integrating AI/LLMs into backend workflows
 - System design and performance optimization  
 
 ---
