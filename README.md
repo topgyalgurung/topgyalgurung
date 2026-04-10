@@ -1,7 +1,7 @@
 
 ### Hi, I’m Topgyal 👋  
 
-**Software Engineer (Backend Focused) **
+**Software Engineer (Backend Focused)**
 
 "He not busy being born is busy dying" - Bob Dylan
 
